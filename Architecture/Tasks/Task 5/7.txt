@@ -1,0 +1,9 @@
+ADDI $s0 $0 0x1234
+SLL $s0 $s0 0x10
+ADD $s0 $s0 $a1
+label1: SLT $t1 $t2 $s3
+BEQ $t1 $0 label2
+SLLV $s1 $s7 $t1
+OR $s5 $t9 $a3
+J label1
+label2: SUB $s2 $t5 $a2
