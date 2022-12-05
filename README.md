@@ -73,6 +73,15 @@
 <a href="https://github.com/AlmogJakov/Computer-Science/tree/main/Navigation%20and%20position%20estimation%20algorithms">אלגוריתמי ניווט ושערוך מיקום</a> •
 </td>
 </tr>
+  
+<tr align="right" valign="center">
+<td width="380">
+
+</td>
+<td width="380">
+<a href="https://github.com/AlmogJakov/Computer-Science/blob/main/Computer%20Vision%20And%20Image%20Processing">ראייה ממוחשבת ועיבוד תמונה</a> •
+</td>
+</tr>
 
 </table>
 
@@ -100,7 +109,7 @@
 
 <tr align="right" valign="center">
 <td width="380">
-
+<a href="https://github.com/AlmogJakov/Computer-Science/blob/main/Data%20compression">דחיסת נתונים</a> •
 </td>
 <td width="380">
 <a href="https://github.com/AlmogJakov/Computer-Science/tree/main/Programming%20languages">שפות תכנות</a> •
