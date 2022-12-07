@@ -73,13 +73,22 @@
 <a href="https://github.com/AlmogJakov/Computer-Science/tree/main/Navigation%20and%20position%20estimation%20algorithms">אלגוריתמי ניווט ושערוך מיקום</a> •
 </td>
 </tr>
+
+<tr align="right" valign="center">
+<td width="380">
+<a href="https://github.com/AlmogJakov/Computer-Science/tree/main/System%20Programming%20A">תכנות מערכות א</a> •
+</td>
+<td width="380">
+<a href="https://github.com/AlmogJakov/Computer-Science/blob/main/Computer%20Vision%20And%20Image%20Processing">ראייה ממוחשבת ועיבוד תמונה</a> •
+</td>
+</tr>
   
 <tr align="right" valign="center">
 <td width="380">
 
 </td>
 <td width="380">
-<a href="https://github.com/AlmogJakov/Computer-Science/blob/main/Computer%20Vision%20And%20Image%20Processing">ראייה ממוחשבת ועיבוד תמונה</a> •
+<a href="https://github.com/AlmogJakov/Computer-Science/tree/main/System%20Programming%20B">תכנות מערכות ב</a> •
 </td>
 </tr>
 
